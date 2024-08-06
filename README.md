@@ -16,6 +16,9 @@ Le travail est segmenté en deux sections : **construction de la base de donnée
 - Fichiers SQL de [création](Livrable%201/Creation.sql), d'[insertion](Livrable%201/Insertion.sql) et de [suppression](Livrable%201/Suppression.sql) des tables
 - Fichier SQL de [tests d'insertion](Livrable%201/TestInsertion.sql) des tables
 
+### Livrable 2
+- Fichiers vues SQL de [création](Livrable%202/Vues.sql) et de [suppression](Livrable%202/VueSuppresion.sql)
+
 ___
 _**Remarque 1** : Les données proviennent des fichiers [CSV](resources/CSV) mis à disposition, converti ensuite en [SQL](resources/SQL) pour le traitement._
 _**Remarque 2** : Ce dépôt ayant été créé après la fin du projet, seul les versions finales des livrables apparaissent._
