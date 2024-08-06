@@ -8,6 +8,14 @@ Dans cette SAÉ, on se propose de construire une base de données à partir d'un
 
 Le travail est segmenté en deux sections : **construction de la base de données** (2 livrables) et **analyse statistique** (1 livrable). L'ensemble du sujet est disponible en [pdf](Sujet%20SAE%202.04%20Exploitation%20BD.pdf).
 
+# Contenu des livrables
+
+### Livrable 1
+- Fichier [PDF](Livrable%201/S1-4_SAE_204_L1_FRANCEUS_RENAUD_RIGAUX_DESCHANEL.pdf) du livrable
+- Diagramme [E/A (Entité-Association)](Livrable%201/sae204.loo) créé via [Looping](https://www.looping-mcd.fr/)
+- Fichiers SQL de [création](Livrable%201/Creation.sql), d'[insertion](Livrable%201/Insertion.sql) et de [suppression](Livrable%201/Suppression.sql) des tables
+- Fichier SQL de [tests d'insertion](Livrable%201/TestInsertion.sql) des tables
+
 ___
 _**Remarque 1** : Les données proviennent des fichiers [CSV](resources/CSV) mis à disposition, converti ensuite en [SQL](resources/SQL) pour le traitement._
 _**Remarque 2** : Ce dépôt ayant été créé après la fin du projet, seul les versions finales des livrables apparaissent._
