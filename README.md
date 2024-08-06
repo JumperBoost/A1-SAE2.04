@@ -24,6 +24,12 @@ Le travail est segmenté en deux sections : **construction de la base de donnée
 - Fichier [ODS](Livrable%20statistique%20descriptive/S1-4.ods) du livrable
 - Fichier [PDF](Livrable%20statistique%20descriptive/Correction%20livrable%20statistique%20descriptive%20SAE%202.04.pdf) de la correction
 
+# Membres du groupe
+- Milwenn FRANCEUS--COINTREL
+- Julien RENAUD
+- Héloïse RIGAUX
+- Alexandre DESCHANEL
+
 ___
 _**Remarque 1** : Les données proviennent des fichiers [CSV](resources/CSV) mis à disposition, converti ensuite en [SQL](resources/SQL) pour le traitement._
 _**Remarque 2** : Ce dépôt ayant été créé après la fin du projet, seul les versions finales des livrables apparaissent._
